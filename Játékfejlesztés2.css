@@ -1,0 +1,31 @@
+body{
+    background-color:burlywood;
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+}
+h2{
+    font-style: italic;
+}
+
+p{
+    font-size: 110%;
+}
+
+a:hover{
+    color: green;
+}
+img{
+    width: 5%;
+    height: 5%;
+}
+table,th,td{
+    border: 1px solid;
+}
+tr :hover{
+    background-color:saddlebrown;
+}
+ul,ol{
+    background-color: cornsilk;
+}
